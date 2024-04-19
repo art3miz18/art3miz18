@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @art3miz18
 - 👀 I’m interested in Visual Effects, Shaders , and procedural automation
 - 🌱 I’m currently learning Unity 3D for AR/VR, and game development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [Games, Animations, UI and everything interesting]
 - 📫 How to reach me [linkedIn- https://www.linkedin.com/in/balaji-rao-/}
 
 <!---
