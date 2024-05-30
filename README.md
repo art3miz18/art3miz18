@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All About Me is at 
-<-- **[My Website](https://soumyajit.vercel.app/)** -->
+<!-- **[My Website](https://soumyajit.vercel.app/)** -->
 
 - 🔭 I’m currently working on `Something interesting`.
 
