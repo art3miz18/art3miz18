@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/balaji-rao/">LinkedIn</a> • 
-<a href="https://art3miz18.github.io/">Portfolio</a>
+<a href="https://art3miz18.github.io/Balaji_Rao/">Portfolio</a>
 </p>
 
 ---
